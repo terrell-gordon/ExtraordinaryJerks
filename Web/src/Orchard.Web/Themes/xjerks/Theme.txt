@@ -1,0 +1,7 @@
+Name: xjerks
+Author: BIND
+Description: Theme customized with BindTuning - Where themes come to life.
+Version: 2.0.19.0
+Tags: business, cms, modern, bindtuning
+Website: http://bindtuning.com
+Zones: Header, Navigation, Featured, BeforeMain, AsideFirst, Messages, BeforeContent, Content, AfterContent, AsideSecond, AfterMain, TripelFirst, TripelSecond, TripelThird, FooterQuadFirst, FooterQuadSecond, FooterQuadThird, FooterQuadFourth, Footer
